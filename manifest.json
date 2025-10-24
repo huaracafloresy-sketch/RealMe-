@@ -1,0 +1,17 @@
+{
+  "name": "RealMe",
+  "short_name": "RealMe",
+  "description": "Una red social moderna con videos reales y sin IA, creada para conectar personas auténticas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#1a1a1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
